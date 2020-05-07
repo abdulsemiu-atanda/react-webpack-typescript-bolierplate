@@ -7,6 +7,10 @@
     "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulsemiu-atanda/react-webpack-typescript-bolierplate.git"
+  },
   "keywords": [
     "react",
     "typescript",
